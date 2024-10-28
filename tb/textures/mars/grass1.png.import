@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c23mrr25xarj4"
-path.s3tc="res://.godot/imported/mars_sand1.png-e5f45788cfcc744f709859a876f7f1a8.s3tc.ctex"
+uid="uid://darotx4bmy408"
+path.bptc="res://.godot/imported/grass1.png-990695e4477e264cfa734e3d8d493146.bptc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,20 +11,20 @@ metadata={
 
 [deps]
 
-source_file="res://tb/textures/mars/mars_sand1.png"
-dest_files=["res://.godot/imported/mars_sand1.png-e5f45788cfcc744f709859a876f7f1a8.s3tc.ctex"]
+source_file="res://tb/textures/mars/grass1.png"
+dest_files=["res://.godot/imported/grass1.png-990695e4477e264cfa734e3d8d493146.bptc.ctex"]
 
 [params]
 
 compress/mode=2
-compress/high_quality=false
-compress/lossy_quality=0.7
+compress/high_quality=true
+compress/lossy_quality=1.0
 compress/hdr_compression=1
-compress/normal_map=0
+compress/normal_map=2
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
-roughness/mode=0
+roughness/mode=1
 roughness/src_normal=""
 process/fix_alpha_border=true
 process/premult_alpha=false
