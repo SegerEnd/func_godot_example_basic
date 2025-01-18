@@ -1,0 +1,14 @@
+[remap]
+
+importer="func_godot.map"
+type="Resource"
+uid="uid://xos710eu02bu"
+path="res://.godot/imported/grid_meshes.map-21926b88dd6fd085090526e56032b359.tres"
+
+[deps]
+
+source_file="res://tb/maps/grid_meshes.map"
+dest_files=["res://.godot/imported/grid_meshes.map-21926b88dd6fd085090526e56032b359.tres"]
+
+[params]
+
